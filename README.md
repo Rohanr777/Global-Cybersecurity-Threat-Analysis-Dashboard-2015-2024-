@@ -1,5 +1,8 @@
 # Global Cybersecurity Threat Analysis Dashboard (2015–2024)
 
+<img width="1459" height="845" alt="image" src="https://github.com/user-attachments/assets/9f63d23e-ecbf-4e54-afc1-77d2bd05e1b8" />
+
+
 ## Project Overview
 
 This project presents an interactive Excel dashboard designed to analyze global cybersecurity threats from 2015 to 2024. The dashboard visualizes cyber attack trends across multiple countries and industries, helping identify patterns in attack types, financial losses, affected users, and security vulnerabilities.
